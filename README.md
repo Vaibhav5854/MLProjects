@@ -174,7 +174,7 @@ Prediction
 * Scikit-Learn
 * CatBoost
 * XGBoost
-* Pipeline check for best model
+* Pipeline checks for best model
 
 ### Data Processing
 

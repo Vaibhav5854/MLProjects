@@ -1,4 +1,4 @@
-# End-to-End Machine Learning Project
+# STUDENT MARKS PREDICTOR
 
 ## Overview
 
